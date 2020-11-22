@@ -1,5 +1,6 @@
 # HTB-invitation-code-automation
-how to download
+How to download
+https://github.com/im-high/HTB-invitation-code-automation.git
 
 How to use
 cd HTB-invitation-code-automation/
